@@ -1,52 +1,106 @@
 [
   {
+    "name": "rock_fnerf",
+    "svg": "https://www.dropbox.com/scl/fi/qzxvcyigcqg7gzyfm5e3s/unnamed_012.svg?rlkey=ej66xnphif1612bs5ottd4tr8&st=mo26v70g&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "rock_fne",
+    "svg": "https://www.dropbox.com/scl/fi/60y4y7exkjhhb33zorg7k/unnamed_011.svg?rlkey=feo2qcnr6msjbaoohdjgvo40n&st=79hecthw&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_ddj",
+    "svg": "https://www.dropbox.com/scl/fi/khufa4e13swscpe9iwu1d/unnamed_010.svg?rlkey=1m6oox4nkztdrltir57nu9wjl&st=80i4r0on&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
     "name": "Couch_FG",
-    "svg": "https://www.dropbox.com/scl/fi/6imlkfajoqwv2kivn7hme/Couch_FG.svg?rlkey=o4gws9s3xws82s8inrogdp9gd&st=18s5mfa7&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa"
-  },
-  {
-    "name": "Couch_Change",
-    "svg": "https://www.dropbox.com/scl/fi/j8kr8kfggnbbc06zl3ggy/couch_change.svg?rlkey=pk4kk750q0nrc4s7wvhgd9d9j&st=gebr6vc6&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa"
-  },
-  {
-    "name": "Couch_anew",
-    "svg": "https://www.dropbox.com/scl/fi/90uss7aybetft2bulwerd/couch_anew.svg?rlkey=5eqbbkrc4jg2f83rur8c0cmil&st=64pbvlgm&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa"
-  },
-  {
-    "name": "Couch_ch",
-    "svg": "https://www.dropbox.com/scl/fi/au71ok9mhyy8f3zdln2a5/couch_third.svg?rlkey=xz49qldkfpdhuqw4yi4gx2edq&st=2x32cpzv&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa"
-  },
-  {
-    "name": "Couch",
-    "svg": "https://www.dropbox.com/scl/fi/5jfyezs9jwtiyh72yik8f/couch.svg?rlkey=q4zmq5oxfzzx17893ayc486a9&st=7g9ibtiw&dl=0",
+    "svg": "https://www.dropbox.com/scl/fi/j8kr8kfggnbbc06zl3ggy/couch_change.svg?rlkey=pk4kk750q0nrc4s7wvhgd9d9j&st=3mogckod&dl=0",
     "search_terms": "couch, chair, cusion, sit, sofa",
-    "premium": "true"
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
   },
   {
-    "name": "Couch",
-    "svg": "https://www.dropbox.com/scl/fi/5jfyezs9jwtiyh72yik8f/couch.svg?rlkey=q4zmq5oxfzzx17893ayc486a9&st=7g9ibtiw&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa",
-    "premium": "true"
+    "name": "Bush",
+    "svg": "https://www.dropbox.com/scl/fi/q3dx8gf5xrq7zpd0vwx8u/unnamed.svg?rlkey=bcxk99kgrnt9viq1asowlzyqj&st=qdesl9tu&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
   },
   {
-    "name": "Couch",
-    "svg": "https://www.dropbox.com/scl/fi/5jfyezs9jwtiyh72yik8f/couch.svg?rlkey=q4zmq5oxfzzx17893ayc486a9&st=7g9ibtiw&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa",
-    "premium": "true"
+    "name": "rock",
+    "svg": "https://www.dropbox.com/scl/fi/zsfsaeboqzhndgzc0drg2/unnamed_002.svg?rlkey=oika20h0skobwgx3iy1fwegtm&st=q0v69jlb&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
   },
   {
-    "name": "Couch",
-    "svg": "https://www.dropbox.com/scl/fi/5jfyezs9jwtiyh72yik8f/couch.svg?rlkey=q4zmq5oxfzzx17893ayc486a9&st=7g9ibtiw&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa",
-    "premium": "true"
+    "name": "Rock1",
+    "svg": "https://www.dropbox.com/scl/fi/6mm4i6u7tl8dwoqtxn4c2/unnamed_003.svg?rlkey=armviknph90wjzysur6gy0p8y&st=hbqk4g8r&dl=0",
+    "search_terms": "rock, ground, stone, vegetation, outside",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
   },
   {
-    "name": "Couch",
-    "svg": "https://www.dropbox.com/scl/fi/5jfyezs9jwtiyh72yik8f/couch.svg?rlkey=q4zmq5oxfzzx17893ayc486a9&st=7g9ibtiw&dl=0",
-    "search_terms": "couch, chair, cusion, sit, sofa",
-    "premium": "true"
+    "name": "Rock2",
+    "svg": "https://www.dropbox.com/scl/fi/0fo00jrbawwepcqui2usp/unnamed_004.svg?rlkey=onrtvwxvn7kb8d2yg3vvw79k6&st=5p3h8hm5&dl=0",
+    "search_terms": "rock, stone, ground, hard, vegetation, outside",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock3",
+    "svg": "https://www.dropbox.com/scl/fi/bcj22n48bdv6d9bkpjnbk/unnamed_005.svg?rlkey=7auluev1gg939eyl3yucie3aq&st=x1kmfx92&dl=0",
+    "search_terms": "Rock, stone, vegetation, outside, ground",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock4",
+    "svg": "https://www.dropbox.com/scl/fi/nkwe91b59e6p8tnqxd9mv/unnamed_006.svg?rlkey=y4m5yv1le1dksrogn6q20nwq9&st=9gw787q4&dl=0",
+    "search_terms": "Rock, hard, vegetation, mountain, outside, stone",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Stone",
+    "svg": "https://www.dropbox.com/scl/fi/v9ihrlbl6uq87bye7toyg/unnamed_007.svg?rlkey=9fve17s58jzd3lc4ibiovojnt&st=im08nfzi&dl=0",
+    "search_terms": "Stone, rock, hard, ground, dirt, vegetation, outside",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock5",
+    "svg": "https://www.dropbox.com/scl/fi/drb0uo8f5quj73kpvd3uf/unnamed_008.svg?rlkey=oeoku506ndiue24eoalilrfxj&st=gcz98a4h&dl=0",
+    "search_terms": "Rock, stone, ground, outside, vegetation,",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_ttt",
+    "svg": "https://www.dropbox.com/scl/fi/m5j1j9jk90y8pdvxj4xa3/unnamed_009.svg?rlkey=nsm343ng1ghtyln9s8jdnrvrq&st=ohh55yu4&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
   }
 ]

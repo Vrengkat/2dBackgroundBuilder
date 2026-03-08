@@ -1,5 +1,981 @@
 [
   {
+    "name": "Window",
+    "svg": "https://www.dropbox.com/scl/fi/w0xz0an9d84ng23r9pavq/newnoname_122.svg?rlkey=vscvf1uhdwcu12dv6vx6pd1m3&st=3gvajtuo&dl=0",
+    "search_terms": "window, wall, side, glass",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_ricmi",
+    "svg": "https://www.dropbox.com/scl/fi/p0zsgefcgqsqhypimczb5/newnoname_121.svg?rlkey=71rr4uzd24iddfdi7d17sc8bn&st=7d290wdk&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "29",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_qhggq",
+    "svg": "https://www.dropbox.com/scl/fi/4np25axflys71ywtd4j1b/newnoname_120.svg?rlkey=xg4pwz9bk262yu0ashc815kui&st=ahml7w2z&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "28",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Pot_dwpnt",
+    "svg": "https://www.dropbox.com/scl/fi/vj5sau6w4n8ggahy810gt/newnoname_119.svg?rlkey=3jcj9d4bqitrxzhhaew6wzmd9&st=z0fqrfls&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_dswir",
+    "svg": "https://www.dropbox.com/scl/fi/8dlfn76n7p4yscf8fzhuh/newnoname_118.svg?rlkey=e15l36jq9t3470ncrv17zfq9j&st=coh8w0pt&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "28",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Wall Stand_bsvhq",
+    "svg": "https://www.dropbox.com/scl/fi/o2hzhk0tvjdsfhb4qks9e/newnoname_117.svg?rlkey=xhpn2t5nurdundbw1xna1xw3g&st=ykj6q8by&dl=0",
+    "search_terms": "furniture, wall stand, desk, room devider, interior",
+    "variation": "7",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_mhval",
+    "svg": "https://www.dropbox.com/scl/fi/d6c3wu458mxo3oed1455t/newnoname_116.svg?rlkey=494e7czbb57pjcv8we43ur6ba&st=e1ac8s3k&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_dikwy",
+    "svg": "https://www.dropbox.com/scl/fi/vi6hft7okj6tr1ty83rxd/newnoname_115.svg?rlkey=4xhyc0anvr7tvjyqqwvvpt4tw&st=yg4zx932&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "28",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_fywyl",
+    "svg": "https://www.dropbox.com/scl/fi/3dvxosvrz9kg1u2fksprc/newnoname_114.svg?rlkey=fq1u8gekuqgttd2ja2xbbvz7k&st=k2mpb5qj&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "27",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Vase_tgaoi",
+    "svg": "https://www.dropbox.com/scl/fi/nb1pmuxdryphbbqvse1jj/newnoname_113.svg?rlkey=pu689xdtx8rragy60d8meepv1&st=71aisbgc&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_gmupg",
+    "svg": "https://www.dropbox.com/scl/fi/kybhrq0fsvyur44czjjw6/newnoname_112.svg?rlkey=i9xl6o4os2xdw1wbh29eczf0z&st=78hxcxlo&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall Stand_ammtc",
+    "svg": "https://www.dropbox.com/scl/fi/fv0wzib6p2kl88nhfj9pf/newnoname_111.svg?rlkey=9tzvrzc6d3p0y3k6bme9zern7&st=bs39h50n&dl=0",
+    "search_terms": "furniture, wall stand, desk, room devider, interior",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall Stand_ymzzn",
+    "svg": "https://www.dropbox.com/scl/fi/bqnlqrmqgegh9dk9s2oba/newnoname_110.svg?rlkey=dcn9wksg7k41n6e6bzelkwpz0&st=irmr17k8&dl=0",
+    "search_terms": "furniture, wall stand, desk, room devider, interior",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall Stand_iwahx",
+    "svg": "https://www.dropbox.com/scl/fi/mq5tnganuady625sq5pwe/newnoname_109.svg?rlkey=176k2fmq6j2e3dm3zqqbp0ygu&st=7pkubauj&dl=0",
+    "search_terms": "furniture, wall stand, desk, room devider, interior",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall Stand_pebmb",
+    "svg": "https://www.dropbox.com/scl/fi/ezx9u99i1s2dhz8grveo9/newnoname_108.svg?rlkey=yeckv0cwudgocl3q8tbup7fg1&st=jn6912xu&dl=0",
+    "search_terms": "furniture, wall stand, desk, room devider, interior",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Vase_tzdxp",
+    "svg": "https://www.dropbox.com/scl/fi/crwegi2kvara92ayap8u1/newnoname_107.svg?rlkey=upuf95wzr7t688yzkxeiny45r&st=sadonxk2&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_nwuex",
+    "svg": "https://www.dropbox.com/scl/fi/0e4zue6ckgtpatqb6jfwg/newnoname_106.svg?rlkey=ogegg68p9r0ftg0nef5ctmyew&st=ay28ujf5&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_pgcbz",
+    "svg": "https://www.dropbox.com/scl/fi/hzr3wdhqjbuzmjue9yu1t/newnoname_105.svg?rlkey=175bfrpt52h35a8co9hd8s8fr&st=d9unmw8z&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "27",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "stick Branch_mfvzg",
+    "svg": "https://www.dropbox.com/scl/fi/yxiuglvk4gvroc80f12ie/newnoname_104.svg?rlkey=phj6tavvaewp0hsku6sxcs35k&st=cfwhrswf&dl=0",
+    "search_terms": "stick, branch, tree, trunk, plant",
+    "variation": "7",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_lgzfe",
+    "svg": "https://www.dropbox.com/scl/fi/ngjvn8c2dzno9u2eikj0u/newnoname_103.svg?rlkey=1faz5hy4homqrkdvra4wlfp5j&st=7t7p6zx5&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_xenfs",
+    "svg": "https://www.dropbox.com/scl/fi/ivqu5qjtuieeoq2zl0lhi/newnoname_102.svg?rlkey=2rf51dbl1twvuxxjvjpp0j1oc&st=2fy72o0z&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "26",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Vase_iiruv",
+    "svg": "https://www.dropbox.com/scl/fi/9h8tbe98q4qdcm1no7sq8/newnoname_101.svg?rlkey=0llrdngrtb2awpcr5cu5fxl1r&st=p7qigaob&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Television_waaql",
+    "svg": "https://www.dropbox.com/scl/fi/dkvppgvt0kqqby0j3def8/newnoname_100.svg?rlkey=0sb341q4qlf89vomo4d7iis35&st=lb97b2ip&dl=0",
+    "search_terms": "television, watch, movies, screen, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tv stand_ujqxp",
+    "svg": "https://www.dropbox.com/scl/fi/f2xylx9vyz3iskpxppj88/newnoname_099.svg?rlkey=bvnmp47yel18by28gxyfro1ki&st=f59qkxiq&dl=0",
+    "search_terms": "furniture, tv stand, desk, room devider, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Center mat_omahg",
+    "svg": "https://www.dropbox.com/scl/fi/qu3svm3iirtdzja1hj3j3/newnoname_098.svg?rlkey=8w6hexkpv9ixbxhqr4tlg57kw&st=95p30a60&dl=0",
+    "search_terms": "sitting room, mat, center mat, rug, center rug, interior",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Table_yuzdg",
+    "svg": "https://www.dropbox.com/scl/fi/3ev2doftuei60ohlmtli6/newnoname_097.svg?rlkey=jnfiupe0pv3f4756z0v4ww9oj&st=okj7oymm&dl=0",
+    "search_terms": "table, furniture, sitting room, dining table",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Plate_yokqc",
+    "svg": "https://www.dropbox.com/scl/fi/c9632eit4yoe7zsj0yag8/newnoname_096.svg?rlkey=0w9g9oliv90ge6lys1kfnq4yt&st=xywwf2s7&dl=0",
+    "search_terms": "plate, pot plant, plant, pottery, interior",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_rskjp",
+    "svg": "https://www.dropbox.com/scl/fi/iqndchvt2wv2cd7ap3uoz/newnoname_095.svg?rlkey=c21letgyowog5oi0jda3h57tl&st=xldjdjtg&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Lamp_vkpwq",
+    "svg": "https://www.dropbox.com/scl/fi/9ci43budc0fzjm2hxcg61/newnoname_094.svg?rlkey=fgi7uvblhqr4qev3ntd5brqlz&st=ycri4mz6&dl=0",
+    "search_terms": "Lamp, light, bulb, bright, reading, mood",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pillow_qsujh",
+    "svg": "https://www.dropbox.com/scl/fi/rq48bz3tiaw8kiuseqql7/newnoname_093.svg?rlkey=wtx8dsfq7v5t1qiitc1hv9qyc&st=okkleh60&dl=0",
+    "search_terms": "pillow, couch, fluffy, interior",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pillow_bkhzm",
+    "svg": "https://www.dropbox.com/scl/fi/msfbxqtydbctc1c8p60j6/newnoname_092.svg?rlkey=f2ti8k8evnak2ddh9jmp84vio&st=rvgt4sgg&dl=0",
+    "search_terms": "pillow, couch, fluffy, interior",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_mykpq",
+    "svg": "https://www.dropbox.com/scl/fi/54q95ocmzvy6xx323vb8v/newnoname_091.svg?rlkey=nip6i06gessymopy3d8tfbpvi&st=7ej5gs3b&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "11",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot plant_xefoy",
+    "svg": "https://www.dropbox.com/scl/fi/ivcn9n9bvrylc8b8b4zj3/newnoname_090.svg?rlkey=5sixrtzzpeuybui4ff2kzr2yq&st=axwqz7bv&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_pssvi",
+    "svg": "https://www.dropbox.com/scl/fi/idbaze3gqfvk3kg91g22u/newnoname_089.svg?rlkey=w5dobr9rmqesjlv9kl0ncbjbn&st=7y4wxehz&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Flower_apjrv",
+    "svg": "https://www.dropbox.com/scl/fi/bj65c7uqwf6r9e1hf5mch/newnoname_088.svg?rlkey=u92ii9rwy7mtgh8qv5bklqcz1&st=8i3kn0g6&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "21",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Vase_bgddg",
+    "svg": "https://www.dropbox.com/scl/fi/4src1eezu1my5g73hx4re/newnoname_087.svg?rlkey=nhoj03rdxg82tzzc8a4uvxbk6&st=6bsmoj8b&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Table_tqpag",
+    "svg": "https://www.dropbox.com/scl/fi/zf5i2rgtee9c1pp4uaozu/newnoname_086.svg?rlkey=i7ghgti0huxjydqc9n3xklwpp&st=2m9mctwn&dl=0",
+    "search_terms": "table, furniture, sitting room, dining table",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Book_ynmwc",
+    "svg": "https://www.dropbox.com/scl/fi/z7okb9yzrrrq7ad0mr8yo/newnoname_085.svg?rlkey=qogy21mcy4z2hqafdchi35gnd&st=y5ca1wk1&dl=0",
+    "search_terms": "Book, library, dictionary, read, shelf, encyclopedia",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_haula",
+    "svg": "https://www.dropbox.com/scl/fi/gm1uz6reab54oj7zut3yo/newnoname_084.svg?rlkey=ol8mendw7588rmpzoy2nbgjl7&st=7pctsvdh&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "10",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pillow_essvn",
+    "svg": "https://www.dropbox.com/scl/fi/ojd615j4p8avse7cwwb5z/newnoname_083.svg?rlkey=vnuknm6tscrp8apc5k0rghae6&st=dagz2t6z&dl=0",
+    "search_terms": "pillow, couch, fluffy, interior",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_iamcj",
+    "svg": "https://www.dropbox.com/scl/fi/ob3c0t47duszx3ubnthfr/newnoname_082.svg?rlkey=j0xz615ol1891ihchkiamr9t4&st=u98lncvi&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "9",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_sjtjg",
+    "svg": "https://www.dropbox.com/scl/fi/6rtfdo5erlox94npyux0z/newnoname_081.svg?rlkey=q7kbuywwuqq4s1zd91j71a02c&st=14hba0kv&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "8",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Clock_wxbiy",
+    "svg": "https://www.dropbox.com/scl/fi/eaha44kdtgkaphvyrio4a/newnoname_080.svg?rlkey=5scvhfajbhwceguk9nvuprjst&st=tl7625t4&dl=0",
+    "search_terms": "wall clock, clock, wall, time",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Center mat_kajvh",
+    "svg": "https://www.dropbox.com/scl/fi/uxvfy4ct5ww9zf34wwo45/newnoname_079.svg?rlkey=0wny0jc572bqv97en1bx1nl70&st=0yiacz7b&dl=0",
+    "search_terms": "sitting room, mat, center mat, rug, center rug, interior",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot plant_gbype",
+    "svg": "https://www.dropbox.com/scl/fi/4jh1ch8lrqsfsxydjvkma/newnoname_078.svg?rlkey=z6c8nnba96hbop3bqj3x9i97x&st=pri65jwr&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot",
+    "svg": "https://www.dropbox.com/scl/fi/lnzy4namrmfqlqjx0fx0l/newnoname_077.svg?rlkey=urs1wb2d9759ocn8cyu6mk29p&st=nm8th3nz&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot plant_xsuan",
+    "svg": "https://www.dropbox.com/scl/fi/pghlkrv83wd6ns2ugvznl/newnoname_076.svg?rlkey=0cia9lr82m2swz07b4uceeaxj&st=1jda5h45&dl=0",
+    "search_terms": "pot, plant, pot plant, interior, garden",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_dqzkl",
+    "svg": "https://www.dropbox.com/scl/fi/852zwklb8wifokkygsx45/newnoname_075.svg?rlkey=zk7kdp7io8wtvz85wnuy0robk&st=485n75i0&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Lamp_dqbez",
+    "svg": "https://www.dropbox.com/scl/fi/3w3odm84sh3e4r3klceqy/newnoname_074.svg?rlkey=k7va3wksjgxjebve9nr90e0zp&st=ji69h5ub&dl=0",
+    "search_terms": "Lamp, light, bulb, bright, reading, mood",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Candle_oilic",
+    "svg": "https://www.dropbox.com/scl/fi/dq5awmpwrwr2heq755cmm/newnoname_073.svg?rlkey=ixmgl80x6vvwk0fui5wr47myc&st=ojvfhy3w&dl=0",
+    "search_terms": "candle, light, wax",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_hevjw",
+    "svg": "https://www.dropbox.com/scl/fi/8ywrkrg8of1slk02mpqgi/newnoname_072.svg?rlkey=ba7argyns2z0r7uvm47vlqr8e&st=4iff09dc&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_jblzo",
+    "svg": "https://www.dropbox.com/scl/fi/yuv2ef4ste5n2fq1isjlj/newnoname_071.svg?rlkey=gjnpigmhx821wasdiaw6mnkzh&st=w5mekepx&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Shelf_fhgvr",
+    "svg": "https://www.dropbox.com/scl/fi/wxsojn9r6b70x5xcm5hzq/newnoname_070.svg?rlkey=nx5r3y06oijny5gxbuw1jl5yr&st=l1qwnt8y&dl=0",
+    "search_terms": "shelf, book shelf, Book, library, dictionary, read, shelf, encyclopedia",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Center mat_qykyq",
+    "svg": "https://www.dropbox.com/scl/fi/wjr0k3x8lw8vnuk2e79nc/newnoname_069.svg?rlkey=z4d8iodlsvb5b5trc63qplu49&st=yecnq7qh&dl=0",
+    "search_terms": "sitting room, mat, center mat, rug, center rug, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Table_tcrjh",
+    "svg": "https://www.dropbox.com/scl/fi/rz689nw57usovmyds27ca/newnoname_068.svg?rlkey=tph1of01tuj2wv8gil4uaaklh&st=z5bj7ytp&dl=0",
+    "search_terms": "table, furniture, sitting room, dining table",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Stool_hqidn",
+    "svg": "https://www.dropbox.com/scl/fi/nbjp2auqfs58ubbipv401/newnoname_067.svg?rlkey=8eku2dvtwsp7gx7o3igbxzrsm&st=nnqq5v03&dl=0",
+    "search_terms": "stool, couch, chair, cusion, sit, sofa",
+    "variation": "8",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_wttqd",
+    "svg": "https://www.dropbox.com/scl/fi/ddpkgiuo5ezp2lssh3yju/newnoname_066.svg?rlkey=dtwnx0mip98fsmy72fsirr42j&st=nohc5muz&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "7",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_gjkxq",
+    "svg": "https://www.dropbox.com/scl/fi/lg4ld8ksd8gvreewoaced/newnoname_065.svg?rlkey=i8mpusuli2tmizjaixxm18stc&st=x7e8x467&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "7",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot plant_rbioe",
+    "svg": "https://www.dropbox.com/scl/fi/ls3sy7x0ye81egj9swj8p/newnoname_064.svg?rlkey=cdhdnwfk3w62t1ko8gym96hwk&st=8204ylob&dl=0",
+    "search_terms": "pot, plant, pot plant, interior, garden",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Vase_rdbpn",
+    "svg": "https://www.dropbox.com/scl/fi/6mz7rm1e51e1ifb2taev4/newnoname_063.svg?rlkey=r2j2yilmlx2z7s5zlrznc6q20&st=s48g4dhh&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall Stand_aumji",
+    "svg": "https://www.dropbox.com/scl/fi/8z6qhdinw3g5bud0wwk6z/newnoname_062.svg?rlkey=g9nhoyrlvqyamkpp9pcko4hmd&st=n27icw1g&dl=0",
+    "search_terms": "furniture, wall stand, desk, room devider, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Television_eopvp",
+    "svg": "https://www.dropbox.com/scl/fi/eapxb3yjuaptsyzuixq3q/newnoname_061.svg?rlkey=3oo3hxo9bbxxacdx7jpevn3ds&st=req9nubm&dl=0",
+    "search_terms": "television, watch, movies, screen, interior",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tv stand_iursa",
+    "svg": "https://www.dropbox.com/scl/fi/4sjjj59sx4p1vuo6rfwkc/newnoname_060.svg?rlkey=axs6v7e5lh11wnbsznt541fli&st=zxp4mdcv&dl=0",
+    "search_terms": "furniture, tv stand, desk, room devider, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Clock_klpbx",
+    "svg": "https://www.dropbox.com/scl/fi/rq38kbyxyrx5vvoia6oiu/newnoname_059.svg?rlkey=s4z7fqs9zj876mvmst8vbsinr&st=6hpyf2qq&dl=0",
+    "search_terms": "wall clock, clock, wall, time",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_tjqmb",
+    "svg": "https://www.dropbox.com/scl/fi/hbtr4ix2ettpdbsd8tcsq/newnoname_058.svg?rlkey=mycb8ygb66x9pbvq1isrx9obt&st=6qzkmbd2&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_exgev",
+    "svg": "https://www.dropbox.com/scl/fi/e9rsdxflakli9h2eppkmm/newnoname_057.svg?rlkey=ao6axa1g5zttqftqz6kcusdvk&st=zd9ranvt&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot plant_mqmwy",
+    "svg": "https://www.dropbox.com/scl/fi/ml76emuhc3gifuy1ifain/newnoname_056.svg?rlkey=z95yjham0j0mmd14qvslvrxwh&st=pn3nw4jo&dl=0",
+    "search_terms": "pot, plant, pot plant, interior, garden",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Vase_aizkd",
+    "svg": "https://www.dropbox.com/scl/fi/ist9exma0u2v6wpt6bshe/newnoname_055.svg?rlkey=z55t6r3mh51jtn04228lur0dm&st=f10rrsqf&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_sebph",
+    "svg": "https://www.dropbox.com/scl/fi/r947rqv826rzs466arh17/newnoname_054.svg?rlkey=vahi41iha5puy4oox0y9koqzw&st=5ml6f3a1&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pillow_gvbxm",
+    "svg": "https://www.dropbox.com/scl/fi/ks5g2qsjpzmu8kb9kud0u/newnoname_053.svg?rlkey=zrlec9o7jx164od1cyiz0kipg&st=q085gi50&dl=0",
+    "search_terms": "pillow, couch, fluffy, interior",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_pcila",
+    "svg": "https://www.dropbox.com/scl/fi/hhvqwfcehp2fg37m9tii8/newnoname_052.svg?rlkey=nvuwktvg5e56f7b1bxn7pg5cw&st=0lrrx1bo&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Television_vxfrs",
+    "svg": "https://www.dropbox.com/scl/fi/yesppnp86v242nqlr895n/newnoname_051.svg?rlkey=17plpkm3l7b80gbv34lnpwmhk&st=ql18ncno&dl=0",
+    "search_terms": "television, watch, movies, screen, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tv stand",
+    "svg": "https://www.dropbox.com/scl/fi/th5t3m990hsox5ulswh8a/newnoname_050.svg?rlkey=c8fniq2gm49q9bhcreaf7xzgt&st=pjwp9vx3&dl=0",
+    "search_terms": "furniture, tv stand, desk, room devider, interior",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_dbaht",
+    "svg": "https://www.dropbox.com/scl/fi/j66thir5pktzlty6xqh1j/newnoname_049.svg?rlkey=y5ezghir2urdmtjjy6qexeei4&st=k18369k3&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_snqao",
+    "svg": "https://www.dropbox.com/scl/fi/dhk629y0dhnr57yskhoxs/newnoname_048.svg?rlkey=h261kv9pfxt4foxk5g8wcrq2t&st=eu5kzq8f&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "25",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Vase_nbkhf",
+    "svg": "https://www.dropbox.com/scl/fi/gp5ezwvqd407ep504ymi5/newnoname_047.svg?rlkey=6vpueo11a1s8fpr3gogzuhw9h&st=oow7dtoo&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Lamp_ydcsr",
+    "svg": "https://www.dropbox.com/scl/fi/o896n1a3bs55fomg8gpoq/newnoname_046.svg?rlkey=pbql3y0ufmlsoltdw1bv543x4&st=adz216zk&dl=0",
+    "search_terms": "Lamp, light, bulb, bright, reading, mood",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Medicine bottle_devbd",
+    "svg": "https://www.dropbox.com/scl/fi/xm0gerd9udyflacrm7f9q/newnoname_045.svg?rlkey=30z0uesnvyh7qtc2eiahktkfy&st=pjp540ib&dl=0",
+    "search_terms": "bottle, medicine, shelf, container",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Medicine bottle_zdxgp",
+    "svg": "https://www.dropbox.com/scl/fi/dlp0w0n3m6yulk2d2oh60/newnoname_044.svg?rlkey=iucvw1eyfdlhuk1maz76r8uul&st=3aw6nmtz&dl=0",
+    "search_terms": "bottle, medicine, shelf, container",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Medicine bottle_tvnzu",
+    "svg": "https://www.dropbox.com/scl/fi/9g6cw288mg3udfqnpz9u9/newnoname_043.svg?rlkey=9aemud47lmakqel8lz1bt8yqz&st=v242d9ww&dl=0",
+    "search_terms": "bottle, medicine, shelf, container",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Medicine bottle",
+    "svg": "https://www.dropbox.com/scl/fi/eeylfgwcfxg1qaga2abc7/newnoname_042.svg?rlkey=d10o5u9z7enxy9iy6nqnss219&st=ceun82xo&dl=0",
+    "search_terms": "bottle, medicine, shelf, container",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Television",
+    "svg": "https://www.dropbox.com/scl/fi/mggt1sqan9iqu9ojwgvf1/newnoname_041.svg?rlkey=h4nzysw8o5pbgp9ddt3drbqh6&st=r6hhpgzr&dl=0",
+    "search_terms": "television, watch, movies, screen, interior",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Curtain",
+    "svg": "https://www.dropbox.com/scl/fi/9wuoed3lqzj77tlhikasg/newnoname_040.svg?rlkey=rqf6cs8lxi9wamsobp0eg3pg4&st=hyghjjfn&dl=0",
+    "search_terms": "curtain, interior, design, window",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot plant",
+    "svg": "https://www.dropbox.com/scl/fi/deiwxnbmtmjrmlzivhnfa/newnoname_039.svg?rlkey=oh7wg3mxtxktlf4kufwq0iba8&st=bipe4c66&dl=0",
+    "search_terms": "pot, plant, pot plant, interior, garden",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Center mat",
+    "svg": "https://www.dropbox.com/scl/fi/975h8i9osou8go6j7s9rr/newnoname_038.svg?rlkey=p9t9cpbbtjswjjmrg0502xcgv&st=7yuqrk7b&dl=0",
+    "search_terms": "sitting room, mat, center mat, rug, center rug, interior",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_nheqp",
+    "svg": "https://www.dropbox.com/scl/fi/caaestuubg7t74ltzdquf/newnoname_037.svg?rlkey=1v4qsjcjdeamxc7xbswjs8apa&st=uzqgky4m&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame",
+    "svg": "https://www.dropbox.com/scl/fi/a5k4f96cnciqi3m496siy/newnoname_036.svg?rlkey=hvsi4wf6kuot8m6da0tb8ajau&st=v8n4xfwu&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pillow_eukqo",
+    "svg": "https://www.dropbox.com/scl/fi/oyy1mv9cu6zu67p46ytkc/newnoname_034.svg?rlkey=e3e25yh7ud8gjww9bpaz35mbo&st=puiy4d86&dl=0",
+    "search_terms": "pillow, couch, fluffy, interior",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pillow",
+    "svg": "https://www.dropbox.com/scl/fi/l58209m1o73awt5qd8pyz/newnoname_035.svg?rlkey=1vx8bapa2o62gb3t9mav7bvwb&st=b36o1wff&dl=0",
+    "search_terms": "pillow, couch, fluffy, interior",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_jlnfp",
+    "svg": "https://www.dropbox.com/scl/fi/0z0bfym2eey6eb7ejq34s/newnoname_033.svg?rlkey=oqq69q5dyht2p6ylq3sl4ywsh&st=k8k52f9f&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Vase",
+    "svg": "https://www.dropbox.com/scl/fi/5s82ut2tybkwyv68he2dx/newnoname_032.svg?rlkey=xa0s0prcsztm6cu43lcu2z1bh&st=7h9356w9&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Lamp",
+    "svg": "https://www.dropbox.com/scl/fi/ojmegqw3wr1aj4rvpwxxa/newnoname_031.svg?rlkey=pwtwf7k4chthuiea4dixcujh3&st=mdxn157s&dl=0",
+    "search_terms": "Lamp, light, bulb, bright, reading, mood",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_vvwxs",
+    "svg": "https://www.dropbox.com/scl/fi/4n72ed6a17ljkpecxxned/newnoname_030.svg?rlkey=oj3ja6bq66lakv1bkppyo9d81&st=w3ayqsfe&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Book_mmyoa",
+    "svg": "https://www.dropbox.com/scl/fi/am7tagk1p8zqdkriwfozc/newnoname_029.svg?rlkey=6f6c7zwcckv6vj5i19whctl3t&st=yibpmfr0&dl=0",
+    "search_terms": "Book, library, dictionary, read, shelf, encyclopedia",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Book_lgrae",
+    "svg": "https://www.dropbox.com/scl/fi/gcbhalf1hk0fxruvyar3i/newnoname_028.svg?rlkey=qyayntqsgbbd5cxmyxw4oya05&st=91pzx1ru&dl=0",
+    "search_terms": "Book, library, dictionary, read, shelf, encyclopedia",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Book",
+    "svg": "https://www.dropbox.com/scl/fi/5vciw8wgv3lv46z1ml35c/newnoname_027.svg?rlkey=3hbn7f5tahingwmbjpcpd8awm&st=khsjdlkj&dl=0",
+    "search_terms": "Book, library, dictionary, read, shelf, encyclopedia",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Keyboard_bifpy",
+    "svg": "https://www.dropbox.com/scl/fi/iqji4myieploklhk8fupr/newnoname_026.svg?rlkey=r6lnhkhzfzoimof1nc3eo31at&st=e3kfcy4n&dl=0",
+    "search_terms": "Keyboard, computer, pc, desktop, machine, screen, tv, television",
+    "variation": "4",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mouse_whlch",
+    "svg": "https://www.dropbox.com/scl/fi/k6se3fjz9gfypwsunqakm/newnoname_025.svg?rlkey=ut1dsl0g5qo0lm8lvnjdnu4bd&st=3e2qfjep&dl=0",
+    "search_terms": "Mouse, computer, pc, desktop, machine, screen, tv, television",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Monitor_diyfg",
+    "svg": "https://www.dropbox.com/scl/fi/gri12k42mrzgp53fvvgw2/newnoname_024.svg?rlkey=53f6bwuhp7d7p5cw0v3zyjn7b&st=p6p4pu6n&dl=0",
+    "search_terms": "Monitor, computer, pc, desktop, machine, screen, tv, television",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Monitor",
+    "svg": "https://www.dropbox.com/scl/fi/9lv4r0u36torwaxxog5k2/newnoname_023.svg?rlkey=exu2zmffz0gdjj6kjh1z3vqqe&st=q1kcyz1l&dl=0",
+    "search_terms": "Monitor, computer, pc, desktop, machine, screen, tv, television",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_nssyy",
+    "svg": "https://www.dropbox.com/scl/fi/0x7kfxrldbsxvwap92xd9/newnoname_022.svg?rlkey=ojkkb8qnls442dwtbpz4w4p06&st=on2m5tb0&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "27",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_aemuz",
+    "svg": "https://www.dropbox.com/scl/fi/nxu4gchltxe9vddtxq5y6/newnoname_021.svg?rlkey=pq4nyltzf5j00ezcza0nealls&st=s5lfuzes&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "26",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_exjpa",
+    "svg": "https://www.dropbox.com/scl/fi/6zg6ksr8e9re593k9ytbq/newnoname_020.svg?rlkey=lhl02serqj289o3hbi8g8cb6r&st=k3ks8k4c&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "25",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Table",
+    "svg": "https://www.dropbox.com/scl/fi/lcb299d4mykmv2e38n4b7/newnoname_019.svg?rlkey=qmqa9yo3vnz3r2oxdn54awd23&st=7nsmghvv&dl=0",
+    "search_terms": "table, furniture, sitting room, dining table",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Light_ujnaw",
+    "svg": "https://www.dropbox.com/scl/fi/ooy4usnmezl5kkzp28h73/newnoname_018.svg?rlkey=qxwbwsdj8jsjzmghrj5qgxcn1&st=tgx2unim&dl=0",
+    "search_terms": "light, bright, glare, gradient",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bulb",
+    "svg": "https://www.dropbox.com/scl/fi/d6n893nnbmx8yas2iihaw/newnoname_017.svg?rlkey=hfijh7mos7kfeifkgh2r0tbu1&st=0vxqhri1&dl=0",
+    "search_terms": "bulb, light, light bulb",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "pot",
+    "svg": "https://www.dropbox.com/scl/fi/oxw06ewy6osgvk6rrl31v/newnoname_016.svg?rlkey=kykc3oq8s3vybaxpzwtsjrbf8&st=zvwn5bhv&dl=0",
+    "search_terms": "pot, plate, candle, container",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Light",
+    "svg": "https://www.dropbox.com/scl/fi/g2fwlx5804hxbmyehbnmv/newnoname_015.svg?rlkey=x64633iu9g6elnwiconvdmbih&st=v11i1rox&dl=0",
+    "search_terms": "light, bright, glare, gradient",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Fire",
+    "svg": "https://www.dropbox.com/scl/fi/bioprd0wj5ud3d8qoj7wr/newnoname_014.svg?rlkey=659ok9la1nrwxbu4um4zuor63&st=fvjv8b30&dl=0",
+    "search_terms": "fire, burn, light, bright, glare",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Candle_whafr",
+    "svg": "https://www.dropbox.com/scl/fi/z8m0l234olw2tgzm0srhp/newnoname_013.svg?rlkey=2ss3u2gpv4d8nnipw6jqk2q7c&st=zm49233s&dl=0",
+    "search_terms": "candle, light, wax",
+    "variation": "5",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_orjop",
+    "svg": "https://www.dropbox.com/scl/fi/g1aae2bmvhnoj9buqxl9w/newnoname_012.svg?rlkey=4jiyf75lpsbdw53fy04hzzmko&st=wr0izh8m&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "9",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_ottjl",
+    "svg": "https://www.dropbox.com/scl/fi/69pus1izepzlysvft9bmn/newnoname_011.svg?rlkey=ylpqnbk2f8aq0m40chux3rxsk&st=08mvkbzr&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "8",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_oayiq",
+    "svg": "https://www.dropbox.com/scl/fi/9dpyzip8lt7jcawvtfsa1/newnoname_010.svg?rlkey=gi07fgh6er7jydn8ah3zryq0q&st=ufwnaqvs&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "7",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_aadfq",
+    "svg": "https://www.dropbox.com/scl/fi/11oc4wsxjzngkee8xphoq/newnoname_009.svg?rlkey=r8zwsi7fb8a2c7d4j7mkd8xj2&st=xdgth8t1&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_xezqb",
+    "svg": "https://www.dropbox.com/scl/fi/j4mg54ozheiplfb17wwqx/newnoname_008.svg?rlkey=dpntelwfwn963zj38o5gskew9&st=g4k5jp0t&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "24",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Tree_qgtpc",
+    "svg": "https://www.dropbox.com/scl/fi/h9utuxrj23bv9s5obcrcf/newnoname_007.svg?rlkey=6ofubxqdqbk2om692c24qi9fp&st=gimr54op&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "19",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tree_ydmkn",
+    "svg": "https://www.dropbox.com/scl/fi/omi5w8rn9s7l5eyxl41jq/newnoname_006.svg?rlkey=tpqhvl1mdnjmxj5trvny7q3mk&st=bzqyqw01&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "18",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "stick Branch_mcazr",
+    "svg": "https://www.dropbox.com/scl/fi/sovmso75f8cjglvx1vfjt/newnoname_005.svg?rlkey=kvt9dq9igwkq0a43bkfmxvkh7&st=m179hypr&dl=0",
+    "search_terms": "stick, branch, tree, trunk, plant",
+    "variation": "6",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tree Trunk_dimwv",
+    "svg": "https://www.dropbox.com/scl/fi/5h7887qpw4h0h9pratbjc/newnoname_004.svg?rlkey=ojur9n2b6mpktckh9dd7xgfrr&st=bxc30ux5&dl=0",
+    "search_terms": "tree, trunk, treetrunk, plant, wood",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mountain_imafu",
+    "svg": "https://www.dropbox.com/scl/fi/hgowkliqoce7h4f13itk8/newnoname_003.svg?rlkey=za3ivhnu88wy6gcklw4qj7qul&st=f2p8evya&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "16",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mountain_dqgxv",
+    "svg": "https://www.dropbox.com/scl/fi/w3a8t8yi1qnp569o1isrx/newnoname_002.svg?rlkey=21fhbq4sjdlql63m1rkw08jpg&st=nvnm2g5x&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "15",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mountain_nbzeu",
+    "svg": "https://www.dropbox.com/scl/fi/fdoqcwzlieuiy6h6cz9m5/newnoname.svg?rlkey=wfg4se40gtggg4je67of0hw5f&st=11wkuilz&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "14",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
     "name": "Tree_rfvcd",
     "svg": "https://www.dropbox.com/scl/fi/b59hj39mz9v35edboa8jq/unnamed_227.svg?rlkey=53u60rrpjbcvup00qldootif9&st=eeqg09om&dl=0",
     "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",

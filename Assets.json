@@ -1,12 +1,659 @@
 [
   {
+    "name": "Cave_umcbp",
+    "svg": "https://www.dropbox.com/scl/fi/e62tgjrl9nutr2933zfqh/veg_081.svg?rlkey=yt8um6lhgyxgg6pt5ny4v750g&st=0wtnczk9&dl=0",
+    "search_terms": "cave, mountain, rock, hide, jungle",
+    "variation": "5",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_hpicy",
+    "svg": "https://www.dropbox.com/scl/fi/b26p73894cka0uc4n7upx/veg_080.svg?rlkey=g4ypj409k7r2azge1mbrf0lz5&st=w137jg3f&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "34",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_ghazg",
+    "svg": "https://www.dropbox.com/scl/fi/q2p63yri814t46m91j22a/veg_079.svg?rlkey=nhjgfpb252cwm8qkos3q6fu6b&st=a9cbpr4y&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "32",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_ksmko",
+    "svg": "https://www.dropbox.com/scl/fi/0nukrslfc5067xo7arifg/veg_078.svg?rlkey=uzifjiueju6b6rnrtf3au7ya2&st=al9zlupg&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "34",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_slgvs",
+    "svg": "https://www.dropbox.com/scl/fi/0i1ptwawhjauv2irzaaex/veg_077.svg?rlkey=9tcr20jf4f2vtq0w7me66gbsn&st=tt2bkqa1&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "32",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Cloud_okhia",
+    "svg": "https://www.dropbox.com/scl/fi/4k7xyau6wg3jkvvw15zys/veg_076.svg?rlkey=4ngm7d3jgfa43rb9qef4oai1p&st=lyhhb1ad&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "26",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_noyko",
+    "svg": "https://www.dropbox.com/scl/fi/ezeukwsohx3rvwxmt2zv5/veg_075.svg?rlkey=x3sxe1w1ogze6zt9zggpvc4us&st=hhojad1a&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "25",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_lphvj",
+    "svg": "https://www.dropbox.com/scl/fi/jnyhi3nde9ojev0igpe84/veg_074.svg?rlkey=oavxb785hrojjcozos7e8q2t6&st=oq4pqsot&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "25",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_igbny",
+    "svg": "https://www.dropbox.com/scl/fi/3kt4zrvz6sbqh4dc2i7yy/veg_073.svg?rlkey=sn6w9d9m87t3su10k7rs6ugs2&st=zyjrpa0g&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "25",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_shdiq",
+    "svg": "https://www.dropbox.com/scl/fi/dj2jg5wv3re7591wl5gjh/veg_072.svg?rlkey=dghgr5pkbxxixcusat93tnz6i&st=swaaoma5&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "24",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_bmefh",
+    "svg": "https://www.dropbox.com/scl/fi/prl4ftwtjaaaopbw20dsq/veg_071.svg?rlkey=7pwr5uiz5x1pg9w020g7x7u9r&st=5c46bt5h&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "11",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sun_tnxtd",
+    "svg": "https://www.dropbox.com/scl/fi/lcxjz3l1wxzcet31rsk4l/veg_070.svg?rlkey=g93p8il0t4iwnv8h7xih1mht3&st=2codxnoa&dl=0",
+    "search_terms": "sun, light, heat, sunlight, bright",
+    "variation": "3",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Star",
+    "svg": "https://www.dropbox.com/scl/fi/4c1bjrfq3kr5g5nasn3y4/veg_069.svg?rlkey=x8zf0o0ae1lztocc9u5akzoo7&st=s7df79c6&dl=0",
+    "search_terms": "star, light, glow, heaven",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_jmpxb",
+    "svg": "https://www.dropbox.com/scl/fi/29le5jbuw0h7fmtoxl520/veg_068.svg?rlkey=pgd4mlsrbekj3i7a5xxa97xuw&st=s2088o0a&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "33",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_otzlp",
+    "svg": "https://www.dropbox.com/scl/fi/z6jrod67bl5tv1porj9l3/veg_067.svg?rlkey=k5qa7toh5q1n0wor15hg09pc9&st=695870ta&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "31",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Bush_qugpn",
+    "svg": "https://www.dropbox.com/scl/fi/80huql36gqahdnt09hf9b/veg_066.svg?rlkey=9zjmj9t5syf4zuun3qmcwopze&st=u549pkxu&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "38",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_ozjmr",
+    "svg": "https://www.dropbox.com/scl/fi/3j4utzpsre2a1wjefl749/veg_065.svg?rlkey=m4wvj2hns8ftyr9jk1v6pfx1h&st=zvnzxcgk&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "37",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_rkokc",
+    "svg": "https://www.dropbox.com/scl/fi/1phafwrss9vyzzar29ylf/veg_064.svg?rlkey=s1u2m35qfsby8ql80l40180lj&st=jvhlg9uh&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "36",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_zgenj",
+    "svg": "https://www.dropbox.com/scl/fi/qsf269tuye79i9gdh26qm/veg_063.svg?rlkey=t7r0u10vzyd5r5k7n0crnmug7&st=iii8qc13&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "35",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_lgedz",
+    "svg": "https://www.dropbox.com/scl/fi/zl0f3il8qgtl94jlr1anc/veg_062.svg?rlkey=4oql8bknqnlvz57ntjq7brzcz&st=mnft97st&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "35",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Tree_iatet",
+    "svg": "https://www.dropbox.com/scl/fi/k4fkrdfgnq8vq5zhj4116/veg_061.svg?rlkey=sr0rwxim53tduwd48ewub7fvf&st=193qufd2&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "21",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tree_ylmpp",
+    "svg": "https://www.dropbox.com/scl/fi/0kt5qog73x1wk3fmdntph/veg_060.svg?rlkey=5m8f8kpkut6cr2ifqbzefppek&st=q5lb2e9v&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "21",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Ground Grass_gtmzb",
+    "svg": "https://www.dropbox.com/scl/fi/unitgfwgkrarmrq3rboiv/veg_059.svg?rlkey=p52tpoz0p74o78vcaz51r3ar1&st=8u8m0f00&dl=0",
+    "search_terms": "ground, grass, floor, outside, vegetation, outside",
+    "variation": "9",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_gktfj",
+    "svg": "https://www.dropbox.com/scl/fi/m3e86r23cbkz603tvvvk0/veg_058.svg?rlkey=2grnhy1krwjeuv5vz2su1ufe3&st=4c6f9e6y&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "30",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Tree_yxyqs",
+    "svg": "https://www.dropbox.com/scl/fi/z2yrmqbteec1k88eef8yo/veg_057.svg?rlkey=1ztlytl20tjui88dc3nnohnc8&st=26j5opi8&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "21",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_evpmu",
+    "svg": "https://www.dropbox.com/scl/fi/4twzgxfqeo4t9s8x0teja/veg_056.svg?rlkey=sj01p3bvktjqjxagac6lol93h&st=rpqwi15t&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "32",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Cave_zwvad",
+    "svg": "https://www.dropbox.com/scl/fi/pj88lzpz1sbxunljdcm65/veg_055.svg?rlkey=4ddg0yucg9rajll5negaeeair&st=kb8oyqwu&dl=0",
+    "search_terms": "cave, mountain, rock, hide, jungle",
+    "variation": "4",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_lbwqg",
+    "svg": "https://www.dropbox.com/scl/fi/4nxrobukq1gxrr06fh8tk/veg_054.svg?rlkey=2sbxntx8jzrokct4sdthrcrp1&st=dlhtc2w6&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "34",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_hlbqe",
+    "svg": "https://www.dropbox.com/scl/fi/9fum0a9zp7xzdq3cos4lg/veg_053.svg?rlkey=jln97kbc9hz1063pztq59996n&st=ok7w1h7b&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "33",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_imkfq",
+    "svg": "https://www.dropbox.com/scl/fi/0vydi0wnztezw47g4e7rm/veg_052.svg?rlkey=au49s57r6r3ctxsx1iurfz7mi&st=le4b4m1s&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "34",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_nnssx",
+    "svg": "https://www.dropbox.com/scl/fi/m3w863jj4z0hy36opbyln/veg_051.svg?rlkey=5b0mh4kkzi02f4nh8l28srk9r&st=z48ep8xf&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "33",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_whpxx",
+    "svg": "https://www.dropbox.com/scl/fi/gu0paz7swe531uty0eux3/veg_050.svg?rlkey=rgs5j4yp3vsszweagfkc20y4r&st=qi5zxqfh&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "32",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_sbqwe",
+    "svg": "https://www.dropbox.com/scl/fi/n62utgxkdw9xj5z9wuooo/veg_049.svg?rlkey=kzx1gwjgx1ag5mz1auf23xqa7&st=ozm6exyh&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "34",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_ogbko",
+    "svg": "https://www.dropbox.com/scl/fi/sge46wo2b4dxbn6m1kqjf/veg_047.svg?rlkey=i7rjkmjty7sfuaagbjy47idn6&st=gbmpm8w6&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "33",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_qaefb",
+    "svg": "https://www.dropbox.com/scl/fi/sge46wo2b4dxbn6m1kqjf/veg_047.svg?rlkey=i7rjkmjty7sfuaagbjy47idn6&st=gbmpm8w6&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "34",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_yygsh",
+    "svg": "https://www.dropbox.com/scl/fi/b4k8bsho4d5q2g29v2ha6/veg_046.svg?rlkey=0ps2unjrdoq74h4kdavlfhb4f&st=nsqwenbl&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "34",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Rock_aqezf",
+    "svg": "https://www.dropbox.com/scl/fi/i6fohdo0wfrm250binhxt/veg_045.svg?rlkey=cd37v509dbaeua8ekfkzpmyki&st=alpizy62&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "31",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_xxgro",
+    "svg": "https://www.dropbox.com/scl/fi/tx9eo9m1e44lhf8f5kt9f/veg_044.svg?rlkey=k89j0phdbzl4rrrb5ezaphr5s&st=fjc7cv7v&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "30",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_bkbqe",
+    "svg": "https://www.dropbox.com/scl/fi/5h43j7mml9epbcfx73pj5/veg_043.svg?rlkey=8usn6zj7qh1kobps7tnhx5kh5&st=rxbfc8a2&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "29",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_kboxx",
+    "svg": "https://www.dropbox.com/scl/fi/9rd952tlr43zdnpxjprfk/veg_042.svg?rlkey=df7hb9z8fu2ewdcnb62le2nzw&st=1e3mp8uv&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "31",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_xtifl",
+    "svg": "https://www.dropbox.com/scl/fi/kdn72kzyezcl6276yrajy/veg_041.svg?rlkey=8lsfibymdxmyfpatdflhs4hhc&st=2x6zuzwt&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "30",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_cmdkr",
+    "svg": "https://www.dropbox.com/scl/fi/7fidhtw1femm96qoh8zo7/veg_040.svg?rlkey=k8e3odoy2erq22o1iu8jjsr3u&st=kpfjzglr&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "30",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_omxcb",
+    "svg": "https://www.dropbox.com/scl/fi/hv7t31ysprauqus8ki41z/veg_039.svg?rlkey=290ff6g8lntdw0xu6mcv01drr&st=rtmchq5q&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "31",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_bcemq",
+    "svg": "https://www.dropbox.com/scl/fi/yj5uzi24f55sc83ld2fz2/veg_038.svg?rlkey=xigwlypz7jwu4gxyj4up9efcj&st=l653bjzh&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "31",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_poyct",
+    "svg": "https://www.dropbox.com/scl/fi/offru5mgudpp1399n8hhw/veg_037.svg?rlkey=v2811knl8r64ti2monr2c8fhn&st=bzh4nsn5&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "30",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Cloud_bqggv",
+    "svg": "https://www.dropbox.com/scl/fi/yqffv8bzemi8csprkxfow/veg_036.svg?rlkey=zpyljoc2y1g9a7dlyn3rbowjw&st=tq2f8mbi&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "23",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_pqtwm",
+    "svg": "https://www.dropbox.com/scl/fi/6cph886el5bwe6eptc1eu/veg_035.svg?rlkey=mf02wlob5xbw73f7d4lp1a3xe&st=d1o8rtq7&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "24",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_eoket",
+    "svg": "https://www.dropbox.com/scl/fi/drmfk57ktel2x752bp6o8/veg_034.svg?rlkey=6a5jmn4uaxati24c24h8akeiq&st=wxqxi2xm&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "23",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_igygk",
+    "svg": "https://www.dropbox.com/scl/fi/nhw93m4oqi2dbf0d3imzr/veg_033.svg?rlkey=7cq2d4drn3udg4zw1qwtpgjs2&st=h3xemkd5&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "22",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mountain_usohv",
+    "svg": "https://www.dropbox.com/scl/fi/5aeuinsc1ehb7msm09aw9/veg_032.svg?rlkey=4xsvn4wlpwht7wc661f3i4sci&st=m9wrl7fz&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "20",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Ground Grass_yppct",
+    "svg": "https://www.dropbox.com/scl/fi/jg4dzjikxlj05sozpqvn9/veg_031.svg?rlkey=rbsjizrx8k8zq23rywvtx9eod&st=yogc631a&dl=0",
+    "search_terms": "ground, grass, floor, outside, vegetation, outside",
+    "variation": "8",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_vglzq",
+    "svg": "https://www.dropbox.com/scl/fi/st7f00ntke4lja40lzabu/veg_030.svg?rlkey=ke27dh1qavifql11q3us1utt4&st=awjtiigi&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "12",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_pypyu",
+    "svg": "https://www.dropbox.com/scl/fi/y0dbcy807da4z78s73l21/veg_029.svg?rlkey=dhwvgw5yhd0df3qe4taowesyc&st=hf56bkjy&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "11",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tree_akpaw",
+    "svg": "https://www.dropbox.com/scl/fi/m16bnofae0fd6atrwlxtl/veg_028.svg?rlkey=frpandgh9nrld514njast2leq&st=dgz9t8hh&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "20",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_aoeyx",
+    "svg": "https://www.dropbox.com/scl/fi/yhemneufqeu8xf2c8u6cz/veg_027.svg?rlkey=26vk6cxgsq0mgxs6obm2l6xbf&st=d4bp23e7&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "30",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_muulg",
+    "svg": "https://www.dropbox.com/scl/fi/746y8p0k00w584vej5flk/veg_026.svg?rlkey=fy1d31qw1ji78hn7t18vut7jr&st=r6rp2bqz&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "29",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_zpfli",
+    "svg": "https://www.dropbox.com/scl/fi/gkwdu0ueh7lwow8b7kp31/veg_025.svg?rlkey=5s0757yz1bi0h6qmv66yzy0pk&st=e7g5g2fo&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "28",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Mountain_occte",
+    "svg": "https://www.dropbox.com/scl/fi/rnkmm0jgfgfwri3fkx1x7/veg_024.svg?rlkey=3wsxdjilrevq7bivmwbtkn1sb&st=dcm8ywn7&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "19",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Ground Grass_iwpzg",
+    "svg": "https://www.dropbox.com/scl/fi/a2howyq91p7k10gyfuo2n/veg_023.svg?rlkey=nao116q9t32s1koa9k3in52uj&st=toeh1cz8&dl=0",
+    "search_terms": "ground, grass, floor, outside, vegetation, outside",
+    "variation": "8",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Ground Grass_ozucy",
+    "svg": "https://www.dropbox.com/scl/fi/msagmx47cqjq836m22q69/veg_022.svg?rlkey=q3at0q23o630i01543ouiqcql&st=43q2tjuu&dl=0",
+    "search_terms": "ground, grass, floor, outside, vegetation, outside",
+    "variation": "7",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mountain_usunl",
+    "svg": "https://www.dropbox.com/scl/fi/yo618y8shvqyyzvqgagsk/veg_021.svg?rlkey=n8shx3aybiivlfrd588z125s4&st=k0frwsub&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "18",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Mountain_gdcgo",
+    "svg": "https://www.dropbox.com/scl/fi/12mi9y9hgnb60j9g9n9bv/veg_020.svg?rlkey=ds3c0zfbrk5bab1um6xhmdzd2&st=j771ksx1&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "17",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_khbws",
+    "svg": "https://www.dropbox.com/scl/fi/djnbdvs1ci6rhoa2j8wcd/veg_019.svg?rlkey=bg46zu9uyl0qutqii6t6grtxp&st=f410ya20&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "33",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_xiyhl",
+    "svg": "https://www.dropbox.com/scl/fi/v9sabou3v60ehh9jk08z2/veg_018.svg?rlkey=29jkf1bewsadu75wu3oo4dacp&st=21f1v58o&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "32",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_dvkgg",
+    "svg": "https://www.dropbox.com/scl/fi/tygkxodil6qx2zxw6dv0n/veg_017.svg?rlkey=yuwbcvcasj1uton107tks4moa&st=6o8584cl&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "31",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_ozjru",
+    "svg": "https://www.dropbox.com/scl/fi/hlhx33ncqu1chthbc1qti/veg_016.svg?rlkey=i62c1h8fdt0odwcnbjhtb2s11&st=pjnlx9i5&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "30",
+    "premium": "false",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Rock_pynpc",
+    "svg": "https://www.dropbox.com/scl/fi/g786heobkna3pp9sy0rky/veg_015.svg?rlkey=c2ukmpuyt4z2o31cj5b8bpwme&st=5816f0f5&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "27",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_tepyi",
+    "svg": "https://www.dropbox.com/scl/fi/2mb7g2b7w3srzdwny9r8n/veg_014.svg?rlkey=e1hobxoyorbxyv799x774f0oq&st=rutzpnz8&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "27",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Cave_nvded",
+    "svg": "https://www.dropbox.com/scl/fi/n1tkk35xdpbmsbk52g8w5/veg_013.svg?rlkey=5k3wnd0r43z2k3md0e8b575fh&st=ill6o3lh&dl=0",
+    "search_terms": "cave, mountain, rock, hide, jungle",
+    "variation": "3",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cave_ugmuq",
+    "svg": "https://www.dropbox.com/scl/fi/o3ar9ikwnzc1vxgjazrla/veg_012.svg?rlkey=q9ynmyrqfc2uuw94vvbr2fsin&st=2ztn4miz&dl=0",
+    "search_terms": "cave, mountain, rock, hide, jungle",
+    "variation": "3",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_hkvmq",
+    "svg": "https://www.dropbox.com/scl/fi/4kbhavdut104d1n44dth4/veg_011.svg?rlkey=lfuqw6eby93g72qe2ectldrvw&st=f6s3w8zs&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "28",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_kyien",
+    "svg": "https://www.dropbox.com/scl/fi/lsd1j5yk5o6d1dw9rzqm2/veg_010.svg?rlkey=f4hv564qu4jiiau5fnobqa9x8&st=fthyqmhb&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "27",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_iexgk",
+    "svg": "https://www.dropbox.com/scl/fi/9yen9a93rcc206n8xufgu/veg_009.svg?rlkey=14ckn2l6vd3zlsjax8dm10cpt&st=0ji09rop&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "26",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_rhiht",
+    "svg": "https://www.dropbox.com/scl/fi/5xoh8mre8gaq6k7vfbwzx/veg_008.svg?rlkey=u6z987y1hdqmym5w7wkw2dw8t&st=ldioe581&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "25",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_dlgcr",
+    "svg": "https://www.dropbox.com/scl/fi/p2mhkot377hk7jgpafr19/veg_007.svg?rlkey=8ngcadfj3hrky4iglwvl0mjth&st=mnfb3bek&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "24",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_sdfme",
+    "svg": "https://www.dropbox.com/scl/fi/38zrby1qolbeyisrbrocz/veg_006.svg?rlkey=8dm6afmz724j01uhdaypk7gac&st=q6uwmenj&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "23",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Cave_htbsw",
+    "svg": "https://www.dropbox.com/scl/fi/i5tyurmbtwzeks62x13qe/veg_005.svg?rlkey=qodpvn6cdgug8h8eo0f1ogwmf&st=zq1as0gf&dl=0",
+    "search_terms": "cave, mountain, rock, hide, jungle",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_ljjrt",
+    "svg": "https://www.dropbox.com/scl/fi/6ny7p20vvjcxen6b9yxv7/veg_004.svg?rlkey=25rjei5yvzqwg6cm4d8axx4op&st=fi0u0zpm&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "11",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cave",
+    "svg": "https://www.dropbox.com/scl/fi/ave1oe244biik9qfs8zdq/veg_002.svg?rlkey=0doqvhhw1667xc8kqfi2fn2dp&st=rtyiqpes&dl=0",
+    "search_terms": "cave, mountain, rock, hide, jungle",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sky add_ickpi",
+    "svg": "https://www.dropbox.com/scl/fi/ave1oe244biik9qfs8zdq/veg_002.svg?rlkey=0doqvhhw1667xc8kqfi2fn2dp&st=rtyiqpes&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "10",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Sun_myerh",
+    "svg": "https://www.dropbox.com/scl/fi/nltnbjamtv9bm7e5v1hbq/veg.svg?rlkey=ys2xawwaqdn3eda54yz9ualfv&st=t294wnac&dl=0",
+    "search_terms": "sun, light, heat, sunlight, bright",
+    "variation": "2",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
     "name": "Window",
     "svg": "https://www.dropbox.com/scl/fi/w0xz0an9d84ng23r9pavq/newnoname_122.svg?rlkey=vscvf1uhdwcu12dv6vx6pd1m3&st=3gvajtuo&dl=0",
     "search_terms": "window, wall, side, glass",
     "variation": "1",
     "premium": "false",
-    "duplicate_group": "",
-    "multi":"4"
+    "duplicate_group": ""
   },
   {
     "name": "Bush_ricmi",

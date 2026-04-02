@@ -1,5 +1,661 @@
 [
   {
+    "name": "wall_kikwa",
+    "svg": "https://www.dropbox.com/scl/fi/2e5f66st98myjsg3th92i/karu_082.svg?rlkey=i5wfm3bu9vo0iur5r1jpi68sq&st=x6cetav3&dl=0",
+    "search_terms": "wall, background, wallpaper",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tv stand_apbhd",
+    "svg": "https://www.dropbox.com/scl/fi/fegzgkqyepg44imy95uuh/karu_081.svg?rlkey=qqh5rk4w2oiodr3ti25x7o3jg&st=qietrz1g&dl=0",
+    "search_terms": "furniture, tv stand, desk, room devider, interior",
+    "variation": "5",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_ignwe",
+    "svg": "https://www.dropbox.com/scl/fi/9r3vlivjkudxpmrt8aoqa/karu_080.svg?rlkey=tqa58wuh0kmu3elne0e5kclkk&st=28a1qlgk&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "54",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_zndwl",
+    "svg": "https://www.dropbox.com/scl/fi/vv56rigep8hxe7ppbi88i/karu_079.svg?rlkey=ncacfiowmoqsoxjyf85e0uce4&st=60x6a6hf&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "53",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Pot_lslef",
+    "svg": "https://www.dropbox.com/scl/fi/1kmseam9wff4nrpnwqahk/karu_078.svg?rlkey=emcruy1vy8nn0xfy7w0tq3q6w&st=ntfphhwe&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "9",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_dgbpn",
+    "svg": "https://www.dropbox.com/scl/fi/8qnaiv4y58o6gfyxi367q/karu_077.svg?rlkey=mbi9q78v3x63qtwyuq4droaks&st=e8i3bzks&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "10",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Table_snnfu",
+    "svg": "https://www.dropbox.com/scl/fi/qh6cndord5ne2fxhyvbit/karu_076.svg?rlkey=v3ffzns6sn81iqc2js0g7p1es&st=sz4l9p1v&dl=0",
+    "search_terms": "table, furniture, sitting room, dining table",
+    "variation": "4",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Lamp_kwwlg",
+    "svg": "https://www.dropbox.com/scl/fi/m9iss6dej5k8yo428lzj9/karu_074.svg?rlkey=jtiwraybxq1wtxykcmm6pnmqq&st=aq3d37ov&dl=0",
+    "search_terms": "Lamp, light, bulb, bright, reading, mood",
+    "variation": "6",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Carpet_djrzq",
+    "svg": "https://www.dropbox.com/scl/fi/m9iss6dej5k8yo428lzj9/karu_074.svg?rlkey=jtiwraybxq1wtxykcmm6pnmqq&st=aq3d37ov&dl=0",
+    "search_terms": "carpet, center rug, rug, center, mat",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_iyeqg",
+    "svg": "https://www.dropbox.com/scl/fi/n6dn47u3bi4fml756cnxt/karu_073.svg?rlkey=ct6112epeoofqvq0jjiy67mfe&st=6rnyluhz&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "14",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "wall",
+    "svg": "https://www.dropbox.com/scl/fi/q5kmnwaqlp4qhj1zu41sd/karu_072.svg?rlkey=r35u5gobf29ets03sn136wr0q&st=ibsznas3&dl=0",
+    "search_terms": "wall, background, wallpaper",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tv stand_rtasm",
+    "svg": "https://www.dropbox.com/scl/fi/f6lg21orjowr13tdsmf3t/karu_071.svg?rlkey=8ae6drtbz4awhmp235dtajlo7&st=91qgn4xd&dl=0",
+    "search_terms": "furniture, tv stand, desk, room devider, interior",
+    "variation": "4",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_yrfwk",
+    "svg": "https://www.dropbox.com/scl/fi/jnxnmhk3471o56ms0d4gi/karu_070.svg?rlkey=1albfrm5jycky6h0zye8nwvpq&st=ng9x8nno&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "9",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Vase_corqk",
+    "svg": "https://www.dropbox.com/scl/fi/32brdb52ntff94qkb9g21/karu_069.svg?rlkey=v0221yx3tvqesrw99cvtsfrjl&st=7wwtp9ok&dl=0",
+    "search_terms": "vase, pot, bottle, container",
+    "variation": "7",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Curtain_ihdaa",
+    "svg": "https://www.dropbox.com/scl/fi/huys6jcu81y1eha4sbqmq/karu_068.svg?rlkey=d7rk1jgagaoz45l14ys0ijhh0&st=opmtv2zj&dl=0",
+    "search_terms": "curtain, interior, design, window",
+    "variation": "5",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_jiddd",
+    "svg": "https://www.dropbox.com/scl/fi/xzvhtv5z0fgm0zncrb3ll/karu_067.svg?rlkey=rq9ryi96al4i6hjk7hd1dnpk8&st=zbrkwpyi&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "52",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Pot_tktzd",
+    "svg": "https://www.dropbox.com/scl/fi/0el6wrxbgq1cze3lkcje9/karu_066.svg?rlkey=s7sl307105l8m1w01c5gp24y0&st=na6pyqec&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "8",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_ppmmd",
+    "svg": "https://www.dropbox.com/scl/fi/pztqdvh88lmvwevgligab/karu_065.svg?rlkey=rnof2avpd88jp7nkvpa6jrjo5&st=yyck6dcx&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "52",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Pot_xtojw",
+    "svg": "https://www.dropbox.com/scl/fi/i1zolhd84hdeyz62rcd9m/karu_064.svg?rlkey=461wyajpexamqb9v9ud2tfpg5&st=onn7cv86&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "9",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Carpet",
+    "svg": "https://www.dropbox.com/scl/fi/hxsle1gy7wvmyb3dl7lsy/karu_063.svg?rlkey=dc7xyhibaansbdps37aaso6fb&st=rhk8vt7i&dl=0",
+    "search_terms": "carpet, center rug, rug, center, mat",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_qyjbe",
+    "svg": "https://www.dropbox.com/scl/fi/ogsaczbl8fdmm2265c3d2/karu_062.svg?rlkey=umd123oyratpg9589fy6itlc2&st=b765hb1h&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "8",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Basket_jkogp",
+    "svg": "https://www.dropbox.com/scl/fi/9mbsd6syqmcbzyd1y9h3r/karu_061.svg?rlkey=y52x6nbu1aiphyzmue42ysd3x&st=mo3pyi4z&dl=0",
+    "search_terms": "basket, container, pot",
+    "variation": "7",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_mlfge",
+    "svg": "https://www.dropbox.com/scl/fi/1iyt1yehkuavymdslcxr2/karu_060.svg?rlkey=l35hk9kr39np34ifn9oc27p40&st=mvvwi8hf&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "52",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Pot_fajsa",
+    "svg": "https://www.dropbox.com/scl/fi/2e60s682xq3ca6px7ygff/karu_059.svg?rlkey=o0mihlfirel291oebsjfeb6km&st=ag6p4icg&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "7",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_cxrpw",
+    "svg": "https://www.dropbox.com/scl/fi/ow1luhmkyczisdz4hisia/karu_058.svg?rlkey=j03c388ik2nddvzpllwr1bunj&st=ew9v4lh6&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "51",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Pot_eupmb",
+    "svg": "https://www.dropbox.com/scl/fi/uwhkuz835kn1xjmc1nizg/karu_057.svg?rlkey=eh8e9cyr8zg9c09k8yl725bcy&st=bfbthw97&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "6",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Curtain_dhpug",
+    "svg": "https://www.dropbox.com/scl/fi/nmljdiqa7k7s4ko7s3zbd/karu_056.svg?rlkey=dq6u5vm2be01kiyjsr3bizqhx&st=10u046vm&dl=0",
+    "search_terms": "curtain, interior, design, window",
+    "variation": "4",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Curtain_brhzn",
+    "svg": "https://www.dropbox.com/scl/fi/ue69clyt4mpj29cqdhmye/karu_055.svg?rlkey=4kt3oi40i8pzk06fx0reqgswj&st=75hguw9s&dl=0",
+    "search_terms": "curtain, interior, design, window",
+    "variation": "3",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Television_cbgqd",
+    "svg": "https://www.dropbox.com/scl/fi/lbpvq4hsot0pja67rbvkl/karu_054.svg?rlkey=pupdtvljnb7kh5azk7tylb0pg&st=3r78nb41&dl=0",
+    "search_terms": "tv, television, screen, flat screen, tv box",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_saumz",
+    "svg": "https://www.dropbox.com/scl/fi/vjfi4mq3sps9pgpxojj87/karu_053.svg?rlkey=ibzdsqhlowve6uqb9vxg3dbu7&st=o7n5yyfa&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "27",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_uvemi",
+    "svg": "https://www.dropbox.com/scl/fi/32risr6si31ys3l2h1vut/karu_052.svg?rlkey=qid4964itlnxsog5n237e2ix7&st=ad2b3z3b&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "26",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Cloud_juims",
+    "svg": "https://www.dropbox.com/scl/fi/3odts0pimh06ovd6pz9vc/karu_051.svg?rlkey=ocpvc3jb7gyej541z5dzl3cmh&st=cgjdz7kc&dl=0",
+    "search_terms": "sky, cloud, up, heaven, top, rain",
+    "variation": "25",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_ingof",
+    "svg": "https://www.dropbox.com/scl/fi/24sll1dpqojyzfr1pb2er/karu_050.svg?rlkey=t2bgt24wxxaup3lg3sgait73q&st=q9rvj64d&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "50",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "flower_xzoxp",
+    "svg": "https://www.dropbox.com/scl/fi/ygaveph74k021d46qqx2w/karu_049.svg?rlkey=aciiwrm4mnp73r4yq36qgqt90&st=nlbckcfj&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "25",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Rock_ovbal",
+    "svg": "https://www.dropbox.com/scl/fi/1xx0mr9o6yy8322sazcgi/karu_048.svg?rlkey=5ph94aq42b7h0bcp6h0adbefj&st=lljow8bx&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "35",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "flower_mjswb",
+    "svg": "https://www.dropbox.com/scl/fi/pd0kl98ctg0x1f9sjb55x/karu_047.svg?rlkey=km5uayxa0qeupmzr4qzcekgxb&st=ljw631an&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "24",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_jgnud",
+    "svg": "https://www.dropbox.com/scl/fi/4ghvrv4wk51tjx9d1yrp3/karu_046.svg?rlkey=n3grh2ziv4ey6ghcz7xgidt3u&st=s61g0bd3&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "49",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_cvlxz",
+    "svg": "https://www.dropbox.com/scl/fi/rj5m9nkt06s7rvuyios96/karu_045.svg?rlkey=99h4sgjpw4cb1ylkjh4a53am6&st=0vomp2jj&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "48",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_ysulo",
+    "svg": "https://www.dropbox.com/scl/fi/6ljhtl9045ra80nuqz83r/karu_044.svg?rlkey=zcphooed38h3uftggu75i43jp&st=o0abwyh0&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "48",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Mountain_rpcwb",
+    "svg": "https://www.dropbox.com/scl/fi/h4jqhwzt4j4xrl51do83o/karu_043.svg?rlkey=rjnvflssd8cujpqqdmtw2bsn0&st=6ya0cp9c&dl=0",
+    "search_terms": "mountain, rock, hill, top, sky, land, grass, floor",
+    "variation": "21",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Rock_fmrwr",
+    "svg": "https://www.dropbox.com/scl/fi/qhlo2giqeg3qhivvj3tqv/karu_042.svg?rlkey=6fyc4z78un6sjaiwhu2llrz6e&st=xfocvcab&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "34",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Rock_zktef",
+    "svg": "https://www.dropbox.com/scl/fi/6blv0eakpwgmd6x6zvmr5/karu_041.svg?rlkey=v2osi40ysx6b8q7kv43tkwy39&st=zut221e4&dl=0",
+    "search_terms": "rock, stone, mountain, outside, vegetation, ground",
+    "variation": "33",
+    "premium": "true",
+    "duplicate_group": "76de57cc-433d-4e63-a65d-f913b2e18c79"
+  },
+  {
+    "name": "Sky add_fogkq",
+    "svg": "https://www.dropbox.com/scl/fi/4s3g10bg04lncotxx6cmr/karu_040.svg?rlkey=6fp1t4ed1a60ainys968wajp6&st=ovq9uooh&dl=0",
+    "search_terms": "sky, cloud, up, heaven",
+    "variation": "12",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "walkway",
+    "svg": "https://www.dropbox.com/scl/fi/zws38qgzar2fpdzsqfbsn/karu_039.svg?rlkey=qfg9ie9orx6vyz2lohi0mgspb&st=mpxqdtui&dl=0",
+    "search_terms": "ground, walk way, way, road, sand, dirt",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_oqjal",
+    "svg": "https://www.dropbox.com/scl/fi/zu7aoihlm2iw2dbmzkh6q/karu_038.svg?rlkey=4pkidlt63x6fzgc6d2jguav3w&st=xppw59k8&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "47",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_qcddp",
+    "svg": "https://www.dropbox.com/scl/fi/rllbu5guvbgg056444g4g/karu_037.svg?rlkey=z4en971gxpqxgtixryf9eb6bp&st=y5s6ii62&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "47",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_uroco",
+    "svg": "https://www.dropbox.com/scl/fi/oksa7jv38fgihf1vtd9p2/karu_036.svg?rlkey=43nsx18zpgyn4f74hpqpkvq9h&st=kjxvqod1&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "47",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_wpvag",
+    "svg": "https://www.dropbox.com/scl/fi/c4c48juqywsyutephbj8o/karu_035.svg?rlkey=b8jo5rp9ichcgdz4sqj1xs7mj&st=6eu0pjzq&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "47",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_uxmcc",
+    "svg": "https://www.dropbox.com/scl/fi/x0hcy194nvm4ts0oxr9wk/karu_034.svg?rlkey=lrr6sfpg53iri9sq1iagpl8ry&st=fwxzyzcd&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "47",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "flower_ldafv",
+    "svg": "https://www.dropbox.com/scl/fi/vnklg82nb650icilrohkj/karu_033.svg?rlkey=lruc95dxc75hld3ue20jcno0w&st=v0eamnd6&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "23",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "flower_yiilc",
+    "svg": "https://www.dropbox.com/scl/fi/rrjtjwxq6zgycs7g94cf9/karu_032.svg?rlkey=l7h2pzvwdlb0vphwusle9xz9i&st=kuczgc0n&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "22",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "flower_actfs",
+    "svg": "https://www.dropbox.com/scl/fi/3ax7iiekqt2fesyozdvrm/karu_031.svg?rlkey=c54e9xb50ui49medy3ig02vnk&st=hxuib26g&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "21",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "water",
+    "svg": "https://www.dropbox.com/scl/fi/hp7rgsmt1oou9qzfu9dyw/karu_030.svg?rlkey=w6fgpyw1oz2s9pspepdtcr0jq&st=4g49gr8d&dl=0",
+    "search_terms": "water, pond, dam, river, pool, swim, lake",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_fpxbh",
+    "svg": "https://www.dropbox.com/scl/fi/sazufj0wdx3ujch5mt8dr/karu_029.svg?rlkey=ysye7l86t8yt1f3f3hlzk1an7&st=la57yzi3&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "13",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_qwiwt",
+    "svg": "https://www.dropbox.com/scl/fi/0stvmvfz43ax6e92u3fzy/karu_028.svg?rlkey=aeivdfh5z8ii4uzubv4ee7vub&st=a3vgqk0w&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "13",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Television",
+    "svg": "https://www.dropbox.com/scl/fi/do06b7x71k9wrloa1kf98/karu_027.svg?rlkey=hbt0r3be9h44tpej56inpcblv&st=ulhp1dh3&dl=0",
+    "search_terms": "tv, television, screen, flat screen, tv box",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "light Switch",
+    "svg": "https://www.dropbox.com/scl/fi/4031otfe40466zn8l0qbe/karu_026.svg?rlkey=zq0xerbdzpnbpkux5d0q6393v&st=6ksptclv&dl=0",
+    "search_terms": "switch, light, wall switch, on, off",
+    "variation": "1",
+    "premium": "false",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Curtain_nljcz",
+    "svg": "https://www.dropbox.com/scl/fi/7y722l3ltx1xrd9spnhyy/karu_025.svg?rlkey=8bvhvork1eesx52aa02dgbuhq&st=wxezi2cz&dl=0",
+    "search_terms": "curtain, interior, design, window",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Tv stand_hecvb",
+    "svg": "https://www.dropbox.com/scl/fi/jnleugb05cyxmdd01x3do/karu_024.svg?rlkey=yg7kqqomfg820qn1wvh0iznbx&st=hq2uyexr&dl=0",
+    "search_terms": "furniture, tv stand, desk, room devider, interior",
+    "variation": "3",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Lamp_usgkn",
+    "svg": "https://www.dropbox.com/scl/fi/lx56hv9atn6e2l5xi9hpm/karu_023.svg?rlkey=4cg4v5164lquasg3pzmhfsazg&st=atxdhhis&dl=0",
+    "search_terms": "Lamp, light, bulb, bright, reading, mood",
+    "variation": "5",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Pot_mfzvw",
+    "svg": "https://www.dropbox.com/scl/fi/rskt1hdnuq3mhhl3hsn1v/karu_022.svg?rlkey=60s1z7ic83es07h4hl2p7lxy3&st=ri12lyrw&dl=0",
+    "search_terms": "Pot, pot plant, plant, pottery, interior, vase",
+    "variation": "5",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_mkpqz",
+    "svg": "https://www.dropbox.com/scl/fi/20vs4wudt09aapvfec5g3/karu_021.svg?rlkey=amiivae8qknpq78j6kv5jxqrn&st=t14i8g16&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "46",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Couch Chair_jyccu",
+    "svg": "https://www.dropbox.com/scl/fi/xtokbqd4bwqaoodexkrlm/karu_020.svg?rlkey=8ptu9g8raiaivnjmx6ividznv&st=nuurgf03&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "12",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Wall frame_lbzho",
+    "svg": "https://www.dropbox.com/scl/fi/ne2wi43wszbju8tz25xzb/karu_019.svg?rlkey=zjiu3q0swu16p5tk0a3uqnmfb&st=u8oin615&dl=0",
+    "search_terms": "picture, wall, portrait, painting, wall interior, hang",
+    "variation": "6",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Couch Chair_cxonh",
+    "svg": "https://www.dropbox.com/scl/fi/q39bctmrkizvbn6q8vole/karu_018.svg?rlkey=9fvz5jm8q8i8beez6q0iwzl0y&st=5l5jn1ui&dl=0",
+    "search_terms": "couch, chair, cusion, sit, sofa",
+    "variation": "11",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "House_raskm",
+    "svg": "https://www.dropbox.com/scl/fi/sj7owv88sqyltyty7ivz1/karu_017.svg?rlkey=n3lzjj8bgtyr0yedhwj6itwre&st=bmpuccjs&dl=0",
+    "search_terms": "house, crib, farm house, shelter",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "House_dyoyn",
+    "svg": "https://www.dropbox.com/scl/fi/b3su8mbk8s9eun5xrbmhi/karu_016.svg?rlkey=yi0bbplsqp52ku4j5g5ec2pc2&st=r0f46ga9&dl=0",
+    "search_terms": "house, crib, farm house, shelter",
+    "variation": "2",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_xzofm",
+    "svg": "https://www.dropbox.com/scl/fi/pvuo8ovyqttd2f195g3hp/karu_015.svg?rlkey=ixe22bnbni63cyvs774fh4fuf&st=5ez2rrvb&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "46",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_wsfmj",
+    "svg": "https://www.dropbox.com/scl/fi/ujylsb1ye1ix0899vs3zw/karu_014.svg?rlkey=x0rud7lgzr2ei3t1ieo6ksidj&st=26n4dxle&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "44",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_guiyq",
+    "svg": "https://www.dropbox.com/scl/fi/bn0sfr3rhrl16t9t41146/karu_013.svg?rlkey=5ry8fy1gu4q7qu77ropnlfw8c&st=lwptsg2c&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "44",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Tree_oilmo",
+    "svg": "https://www.dropbox.com/scl/fi/547adurst5hsvetukkve0/karu_012.svg?rlkey=st9tu573wrh8tqbvkswhmfjao&st=l5yibd34&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "24",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "House",
+    "svg": "https://www.dropbox.com/scl/fi/ulbl7r4nyybhespvgrr0n/karu_011.svg?rlkey=iouhzavxhjm5dh96gmdihxre6&st=xcmzcm5y&dl=0",
+    "search_terms": "house, crib, farm house, shelter",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_tobfj",
+    "svg": "https://www.dropbox.com/scl/fi/vgnw8y75shki8hfhdzk51/karu_010.svg?rlkey=5dk36et3fwvl7vy8p0ysxxd7z&st=kuo3e61u&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "45",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_kcfby",
+    "svg": "https://www.dropbox.com/scl/fi/dns6h1j84uqsurqngyp18/karu_009.svg?rlkey=9skr1fs2vtvzxegr4s3k8ssu4&st=edsmeth0&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "44",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_sbfrk",
+    "svg": "https://www.dropbox.com/scl/fi/z1usn8nemahu8yatm3mvx/karu_008.svg?rlkey=54nrbn5v6xczuzzx0xq547qad&st=ib84r6ll&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "43",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_cctgk",
+    "svg": "https://www.dropbox.com/scl/fi/3pwguyiujo1vnw2gh868u/karu_007.svg?rlkey=tpix191ii9ydm0qif73o9ibwx&st=3b84hm8v&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "42",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Tree_uizmy",
+    "svg": "https://www.dropbox.com/scl/fi/iiqkahaxqjpwrq2j5remr/karu_006.svg?rlkey=ip7w0txskef8w4s7xjbl17im9&st=6fgkvkjn&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "23",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_yxeld",
+    "svg": "https://www.dropbox.com/scl/fi/wk510bbx1ya2u6of13w6c/karu_005.svg?rlkey=1t739dyivlghuqpdpdf9eti0h&st=l3q3t09p&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "41",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_lecyf",
+    "svg": "https://www.dropbox.com/scl/fi/i5o0n7g1xzdk14v6rotta/karu_004.svg?rlkey=k3op84pdd0tmrjui9sna8lyzq&st=9emp30ss&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "40",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_cxckm",
+    "svg": "https://www.dropbox.com/scl/fi/il9muji72x6t1x7rn8qr3/karu_003.svg?rlkey=uxt3m1n30m2vhavo9mssspmo2&st=xa4mbvap&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "39",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_lfmlu",
+    "svg": "https://www.dropbox.com/scl/fi/83h6pdpaaisnhvm8lf7hu/karu_002.svg?rlkey=evfer1i9m31f6aqcyhif10r9o&st=z72jb78k&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "39",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Tree_aqloy",
+    "svg": "https://www.dropbox.com/scl/fi/0sh737fi69l1jfv28a8ol/karu.svg?rlkey=0frjwcq5cj7kaz1rlkpsi3tq3&st=3x123xd8&dl=0",
+    "search_terms": "tree, stick, wood, trunk, branches, bush, plant, leaves",
+    "variation": "22",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
     "name": "Cave_umcbp",
     "svg": "https://www.dropbox.com/scl/fi/e62tgjrl9nutr2933zfqh/veg_081.svg?rlkey=yt8um6lhgyxgg6pt5ny4v750g&st=0wtnczk9&dl=0",
     "search_terms": "cave, mountain, rock, hide, jungle",

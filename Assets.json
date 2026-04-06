@@ -1,5 +1,21 @@
 [
   {
+    "name": "House_artii",
+    "svg": "https://www.dropbox.com/scl/fi/0lxtgdtzme8cseyqqrogv/House2.svg?rlkey=zog9vhtyscaf60ktfuy2dgs4y&st=l7ps48gd&dl=0",
+    "search_terms": "house, crib, farm house, shelter",
+    "variation": "4",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "House_wltyu",
+    "svg": "https://www.dropbox.com/scl/fi/di77wjxjf1vfu7jbq0a0u/house1.svg?rlkey=rukqmkelo4yyumxpyf8q1dp38&st=03bes0sw&dl=0",
+    "search_terms": "house, crib, farm house, shelter",
+    "variation": "3",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
     "name": "wall_kikwa",
     "svg": "https://www.dropbox.com/scl/fi/2e5f66st98myjsg3th92i/karu_082.svg?rlkey=i5wfm3bu9vo0iur5r1jpi68sq&st=x6cetav3&dl=0",
     "search_terms": "wall, background, wallpaper",

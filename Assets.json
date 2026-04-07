@@ -1,5 +1,69 @@
 [
   {
+    "name": "castle",
+    "svg": "https://www.dropbox.com/scl/fi/z1usn8nemahu8yatm3mvx/karu_008.svg?rlkey=54nrbn5v6xczuzzx0xq547qad&st=l13tp4fs&dl=0",
+    "search_terms": "Castle, mansion, pink, heaven, tower, sky, story building",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "RipGrave",
+    "svg": "https://www.dropbox.com/scl/fi/3pwguyiujo1vnw2gh868u/karu_007.svg?rlkey=tpix191ii9ydm0qif73o9ibwx&st=6bddw796&dl=0",
+    "search_terms": "RIP, rock, death, grave, rest in peace, ground",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Grim Reaper",
+    "svg": "https://www.dropbox.com/scl/fi/iiqkahaxqjpwrq2j5remr/karu_006.svg?rlkey=ip7w0txskef8w4s7xjbl17im9&st=a9i435l9&dl=0",
+    "search_terms": "death, grim reaper, hell, die, evil, kill",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Hand",
+    "svg": "https://www.dropbox.com/scl/fi/wk510bbx1ya2u6of13w6c/karu_005.svg?rlkey=1t739dyivlghuqpdpdf9eti0h&st=mp8j2vvq&dl=0",
+    "search_terms": "hand, grave, zombie, arm, full arm",
+    "variation": "1",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Bush_hmsgv",
+    "svg": "https://www.dropbox.com/scl/fi/i5o0n7g1xzdk14v6rotta/karu_004.svg?rlkey=k3op84pdd0tmrjui9sna8lyzq&st=hzx5xkl2&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "56",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Bush_chytf",
+    "svg": "https://www.dropbox.com/scl/fi/il9muji72x6t1x7rn8qr3/karu_003.svg?rlkey=uxt3m1n30m2vhavo9mssspmo2&st=p853kb7n&dl=0",
+    "search_terms": "bush, plant, grass, flowers, vegetation, outside,",
+    "variation": "55",
+    "premium": "true",
+    "duplicate_group": "4fbfa3c2-889e-4ded-ab3f-026d7fbd39c0"
+  },
+  {
+    "name": "Ground_jnlct",
+    "svg": "https://www.dropbox.com/scl/fi/83h6pdpaaisnhvm8lf7hu/karu_002.svg?rlkey=evfer1i9m31f6aqcyhif10r9o&st=pm7r0mey&dl=0",
+    "search_terms": "ground, grass, floor, outside, vegetation, outside, soil",
+    "variation": "10",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
+    "name": "Ground_fykzs",
+    "svg": "https://www.dropbox.com/scl/fi/0sh737fi69l1jfv28a8ol/karu.svg?rlkey=0frjwcq5cj7kaz1rlkpsi3tq3&st=rtlvn6xa&dl=0",
+    "search_terms": "ground, grass, floor, outside, vegetation, outside, soil",
+    "variation": "9",
+    "premium": "true",
+    "duplicate_group": ""
+  },
+  {
     "name": "Chair_hstvi",
     "svg": "https://www.dropbox.com/scl/fi/6nn29fbrg22zldfw3uqid/Chair.svg?rlkey=hsre17wx9wl9sjnzr2p3nlp1s&st=xtxnz34j&dl=0",
     "search_terms": "couch, chair, cusion, sit, sofa",
